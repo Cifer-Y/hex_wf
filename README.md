@@ -10,3 +10,12 @@ HexWf
 4. `mv hex_wf /usr/local/bin/`
 5. `open HEX.alfredworkflow`
 6. the you can use this workflow
+
+### Screenshot
+get one package's info:
+
+![](https://github.com/Cifer-Y/hex_wf/blob/master/screenshot/hex.png "get one package's info")
+
+search by name:
+
+![](https://github.com/Cifer-Y/hex_wf/blob/master/screenshot/hexs.png "search package")
