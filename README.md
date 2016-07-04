@@ -9,7 +9,7 @@ HexWf
 3. cd to the project root, then run: `mix escript.build`, will generate a file called `hex_wf`
 4. `mv hex_wf /usr/local/bin/`
 5. `open HEX.alfredworkflow`
-6. the you can use this workflow
+6. then you can use this workflow
 
 ### Screenshot
 get one package's info:
